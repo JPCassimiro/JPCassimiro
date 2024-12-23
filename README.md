@@ -12,9 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css)](https://skillicons.dev) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcassimiro&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcassimiro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias/Ferramentas 🤖
 

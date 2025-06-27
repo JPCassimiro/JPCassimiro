@@ -16,7 +16,7 @@
 
 ## Tecnologias/Ferramentas 🤖
 
-[![My Skills](https://skillicons.dev/icons?i=react,firebase,unity,arduino)](https://skillicons.dev) <img width="60" heith="60" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"/> <img width="60" heith="60" src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png"/>
+[![My Skills](https://skillicons.dev/icons?i=react,firebase,unity,arduino)](https://skillicons.dev) <img width="60" heith="60" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"/> <img width="60" heith="60" src="[https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png)"/>
 
 ## Projetos de exemplo 🧐
 
@@ -57,7 +57,7 @@
 
 -------------------------------------------------------
 
-- [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) <img width="60" heith="60" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"/> <img width="60" heith="60" src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png"/>
+- [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) <img width="60" heith="60" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"/> <img width="60" heith="60" src="[https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png)"/>
   - [https://github.com/JPCassimiro/controlador-proporcional-integrativo](https://github.com/JPCassimiro/controlador-proporcional-integrativo)
 
 -------------------------------------------------------

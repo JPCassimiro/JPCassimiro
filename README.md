@@ -16,15 +16,14 @@
 
 ## Tecnologias/Ferramentas 🤖
 
-[![My Skills](https://skillicons.dev/icons?i=react,firebase,unity,arduino)](https://skillicons.dev) <img width="60" heith="60" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"/> <img width="60" heith="60" src="[https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png)"/>
+[![My Skills](https://skillicons.dev/icons?i=react,firebase,unity,arduino,nodejs,express,postgres,qt)](https://skillicons.dev) <img width="60" heith="60" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"/> <img width="60" heith="60" src="[https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png)"/>
 
 ## Projetos de exemplo 🧐
 
-
-- [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-  -   [https://github.com/Yuri-Coding/CartasDoFado-CardsOfFate-](https://github.com/Yuri-Coding/CartasDoFado-CardsOfFate-)
-  -   Esse projeto participou da competição ["Namoral Jovens Talentos"](https://www.youtube.com/watch?v=JB2w6xN7aRE)
-
+- [![My Skills](https://skillicons.dev/icons?i=py,qt,sqlite)](https://skillicons.dev)
+  - [https://github.com/JPCassimiro/JHMR](https://github.com/JPCassimiro/JHMR)
+  - Isto é meu TCC e esta em produção.
+    
 -------------------------------------------------------
   
 - [![My Skills](https://skillicons.dev/icons?i=js,react,firebase)](https://skillicons.dev)
@@ -34,17 +33,27 @@
     - [https://github.com/gubetiati/Satisfying.you-Mobile](https://github.com/gubetiati/Satisfying.you-Mobile)
 
 -------------------------------------------------------
-   
+
+- [![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,postgres)](https://skillicons.dev)
+  - [Main do repositório](https://github.com/MatheusVictorMartins/MicroBRSoil)
+  - [Branch back-end(a que mais trabalhei)](https://github.com/MatheusVictorMartins/MicroBRSoil/tree/backend)
+-------------------------------------------------------
+
 - [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   - [https://github.com/JPCassimiro/Controle-de-gastos-diarios-Python](https://github.com/JPCassimiro/Controle-de-gastos-diarios-Python)
 
 -------------------------------------------------------
-    
+
+- [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+  -   [https://github.com/Yuri-Coding/CartasDoFado-CardsOfFate-](https://github.com/Yuri-Coding/CartasDoFado-CardsOfFate-)
+  -   Esse projeto participou da competição ["Namoral Jovens Talentos"](https://www.youtube.com/watch?v=JB2w6xN7aRE)
+
+-------------------------------------------------------
+   
 - [![My Skills](https://skillicons.dev/icons?i=cpp,arduino)](https://skillicons.dev)
   - [https://github.com/JPCassimiro/Projeto_Casa](https://github.com/JPCassimiro/Projeto_Casa)
 
 -------------------------------------------------------
-
     
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
   - [https://github.com/JPCassimiro/Projeto_Ceritificadora_2](https://github.com/JPCassimiro/Projeto_Ceritificadora_2)

@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,html,css)](https://skillicons.dev) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcassimiro&layout=donut&theme=transparent&exclude_repo=https://github.com/JPCassimiro/CNN-COVID-19/tree/main)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcassimiro&layout=donut&theme=transparent&exclude_repo=CNN-COVID-19)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias/Ferramentas 🤖
 

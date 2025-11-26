@@ -22,7 +22,7 @@
 
 - [![My Skills](https://skillicons.dev/icons?i=py,qt,sqlite)](https://skillicons.dev)
   - [https://github.com/JPCassimiro/JHMR](https://github.com/JPCassimiro/JHMR)
-  - Isto é meu TCC e esta em produção.
+  - Meu TCC.
     
 -------------------------------------------------------
   

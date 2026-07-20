@@ -6,6 +6,9 @@
 - Fez parte de dois projetos de extensão:
   - [Ninho de pardais](https://www.instagram.com/ninhodepardais/);
   - [InteliGente](https://biofatecou.fatecourinhos.edu.br/InteliGente/).
+- Fez parte de projetos de pesquisa:
+  - Joystick baixo custo para exercícios respiratórios
+  - Dispositivo de Sensoriamento para Reabilitação Motora das Mãos
 - Interessado em programação de hardware(embarcados, microcontrolados, etc).
 
 ## Linguagens 🤓
@@ -22,7 +25,21 @@
 
 - [![My Skills](https://skillicons.dev/icons?i=py,qt,sqlite)](https://skillicons.dev)
   - [https://github.com/JPCassimiro/JHMR](https://github.com/JPCassimiro/JHMR)
-  - Meu TCC.
+  - Meu TCC e estágio.
+    
+-------------------------------------------------------
+
+- [![My Skills](https://skillicons.dev/icons?i=py,qt,sqlite)](https://skillicons.dev)
+  - [https://github.com/JPCassimiro/jre](https://github.com/JPCassimiro/jre)
+  - Ferramenta desenvolvida durante meu estágio.
+  - Baseada no [JHMR](https://github.com/JPCassimiro/JHMR)
+    
+-------------------------------------------------------
+
+- [![My Skills](https://skillicons.dev/icons?i=py,qt,sqlite)](https://skillicons.dev)
+  - [https://github.com/JPCassimiro/shared_ui_modules](https://github.com/JPCassimiro/shared_ui_modules)
+  - Modulo Python gerado para apoiar o desenvolvimento das duas ferramentas acima.
+  - Ambos os projetos compartilham diversas funções e elementos visuais.
     
 -------------------------------------------------------
   

@@ -2,7 +2,7 @@
 
 
 ## Atualmente 🗿
-- Cursando engenharia de computação na UTFPR;
+- Bacharel em engenharia de computação pela UTFPR;
 - Fez parte de dois projetos de extensão:
   - [Ninho de pardais](https://www.instagram.com/ninhodepardais/);
   - [InteliGente](https://biofatecou.fatecourinhos.edu.br/InteliGente/).

@@ -7,8 +7,8 @@
   - [Ninho de pardais](https://www.instagram.com/ninhodepardais/);
   - [InteliGente](https://biofatecou.fatecourinhos.edu.br/InteliGente/).
 - Fez parte de projetos de pesquisa:
-  - Joystick baixo custo para exercícios respiratórios
-  - Dispositivo de Sensoriamento para Reabilitação Motora das Mãos
+  - Joystick baixo custo para exercícios respiratórios;
+  - Dispositivo de Sensoriamento para Reabilitação Motora das Mãos;
 - Interessado em programação de hardware(embarcados, microcontrolados, etc).
 
 ## Linguagens 🤓
